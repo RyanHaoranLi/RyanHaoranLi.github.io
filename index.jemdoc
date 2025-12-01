@@ -1,0 +1,72 @@
+# jemdoc: menu{MENU}{index.html}
+= Haoran Li 李浩冉
+
+~~~
+{}{img_left}{hrl.png}{Photo}{200px}{254px}
+Ph.D. candidate \n
+[https://www.ucas.ac.cn/ University of Chinese Academy of Sciences, Operations Research] \n
+Email: haoranl@illinois.edu \n 
+
+[https://scholar.google.com/citations?hl=en&user=CEeIeBgAAAAJ&view_op=list_works&sortby=pubdate Google Scholar] |
+[https://github.com/RyanHaoranLi Github] |
+[https://x.com/RyanHaoranLi X]
+~~~
+
+I am currently a final-year Ph.D. candidate at the [https://www.ucas.ac.cn/ University of Chinese Academy of Sciences (UCAS)], where I am fortunate to be advised by [https://people.ucas.ac.cn/~tdguo Prof. Tiande Guo] and [https://people.ucas.ac.cn/~hancy Prof. Congying Han].
+I also maintain a close collaboration with [https://openreview.net/profile?id=~Zicheng_Zhang3 Dr. Zicheng Zhang], who has been a pivotal mentor in my research journey.
+
+At present, I am a visiting Ph.D. Student at the [https://siebelschool.illinois.edu/ University of Illinois Urbana-Champaign (UIUC)],  where I am fortunate to be advised by [https://nanjiang.cs.illinois.edu/ Prof. Nan Jiang]. 
+
+Prior to my graduate studies, I received my Bachelor's degree in Mathematics from the [https://en.scgy.ustc.edu.cn/main.htm, University of Science and Technology of China (USTC)].
+
+
+== Research Interests
+
+My research interests focus on /trustworthy reinforcement learning/, spanning theory, algorithms, and applications. 
+I am dedicated to developing theoretically grounded algorithms that can effectively guide practical scenarios, aiming to bridge the gap between theoretical guarantees and empirical performance.
+
+Broadly, I am also interested in the interplay between /machine learning/ and /optimization/, with a particular focus on policy optimization, machine learning for combinatorial optimization (ML4CO), training of large language models (LLMs) and vision-language models (VLMs).
+
+
+== Selected Honors and Awards
+
+- National Scholarship, Ministry of Education, China (2025)
+- President Scholarship, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (2024)
+- Loo-Keng Hua Scholarship, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (2021)
+
+
+== Selected Publications and Preprints
+
+*Reinforcement Learning*
+- [https://arxiv.org/pdf/2502.16734 Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error] \n
+  Haoran Li, Zicheng Zhang, Wang Luo, Congying Han, Jiayu Lv, Tiande Guo, Yudong Hu. \n
+  Under major revision at JMLR.
+- [papers/2025_apsro.pdf A-PSRO: A Unified Strategy Learning Method with Advantage Metric for Normal-form Games] \n
+  Yudong Hu, Haoran Li, Congying Han, Tiande Guo, Mingqiang Li, Bonan Li. \n
+  (ICML 2025) /42nd International Conference on Machine Learning./
+- [papers/2024_cardqn.pdf Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error] \n
+  Haoran Li, Zicheng Zhang, Wang Luo, Congying Han, Yudong Hu, Tiande Guo, Shichen Liao. \n
+  (ICML 2024 {{<span style="color: red;">}}Oral{{</span>}}, < 1.5%) /41st International Conference on Machine Learning./
+
+*Machine Learning for Combinatorial Optimization*
+- [papers/2025_pupo.pdf Purity Law for Neural Routing Problem Solvers with Enhanced Generalizability] \n
+  Wenzhao Liu, Haoran Li, Congying Han, Zicheng Zhang, Anqi Li, Tiande Guo. \n
+  (NeurIPS 2025) /39th Annual Conference on Neural Information Processing Systems./
+- [papers/2024_pivot.pdf Optimal Pivot Path of the Simplex Method for Linear Programming based on Reinforcement Learning] \n 
+  Anqi Li, Tiande Guo, Congying Han, Bonan Li, Haoran Li. \n
+  (Sci China Math 2024) /Science China Mathematics./
+
+*VLM/LLM Training*
+- [papers/2025_loram.pdf The Primacy of Magnitude in Low-Rank Adaptation] \n
+  Zicheng Zhang, Haoran Li, Yifeng Zhang, Guoqiang Gong, Jiaxing Wang, Pengzhang Liu, Qixia Jiang, Junxing Hu. \n
+  (NeurIPS 2025 {{<span style="color: red;">}}Spotlight{{</span>}}, < 3%) /39th Annual Conference on Neural Information Processing Systems./
+- [papers/2025_tandem.pdf TANDEM: Bi-Level Data Mixture Optimization with Twin Networks] \n
+  Jiaxing Wang, Deping Xiang, Jin Xu, Mingyang Yi, Guoqiang Gong, Zicheng Zhang, Haoran Li, Pengzhang Liu, Zhen Chen, Ke Zhang, Ju Fan, Qixia Jiang. \n 
+  (NeurIPS 2025) /39th Annual Conference on Neural Information Processing Systems./
+
+
+
+
+== Service
+
+- Reviewer: NeurIPS, ICLR

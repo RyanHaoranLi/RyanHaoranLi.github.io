@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+
+== Publications and Preprints
+($\dagger$ indicates the research group leader and advising.)
+
+*Reinforcement Learning*
+- Adversarially robust RL
+    -- [https://arxiv.org/pdf/2502.16734 Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error] \n
+    Haoran Li, Zicheng Zhang, Wang Luo, Congying Han, Jiayu Lv, Tiande Guo, Yudong Hu. \n
+    Under major revision at JMLR.
+    -- [1 ARPO: Optimal Robust Policy Optimization Models from Intrinsic State-Adversarial Markov Decision Process] \n
+    Jiayu Lv, Haoran Li$^\dagger$, Congying Han, Tiande Guo. \n
+    Under major revision at JORSC.
+    -- [papers/2024_cardqn.pdf Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error] \n
+    Haoran Li, Zicheng Zhang, Wang Luo, Congying Han, Yudong Hu, Tiande Guo, Shichen Liao. \n
+    (ICML 2024 {{<span style="color: red;">}}Oral{{</span>}}, < 1.5%) /41st International Conference on Machine Learning./
+- Game theory/Multi-agent RL
+    -- [papers/2025_apsro.pdf A-PSRO: A Unified Strategy Learning Method with Advantage Metric for Normal-form Games] \n
+    Yudong Hu, Haoran Li, Congying Han, Tiande Guo, Mingqiang Li, Bonan Li. \n
+    (ICML 2025) /42nd International Conference on Machine Learning./
+    -- [1 Modeling Opponent Learning in Multiagent Repeated Games] \n
+    Yudong Hu, Congying Han, Haoran Li, Tiande Guo. \n 
+    (Appl Intell 2023) /Applied Intelligence./
+- Offline model-based RL
+    -- [https://arxiv.org/pdf/2408.12830 Mitigating Distribution Shift in Model-based Offline RL via Shifts-aware Reward Learning] \n 
+    Wang Luo, Haoran Li$^\dagger$, Zicheng Zhang, Congying Han, Chi Zhou, Jiayu Lv, Tiande Guo. \n 
+    Preprint.
+    -- [https://arxiv.org/pdf/2502.00850 Dual Alignment Maximin Optimization for Offline Model-based RL] \n 
+    Chi Zhou, Wang Luo, Haoran Li$^\dagger$, Congying Han, Tiande Guo, Zicheng Zhang. \n 
+    Preprint.
+
+*Machine Learning for Combinatorial Optimization*
+- [papers/2025_pupo.pdf Purity Law for Neural Routing Problem Solvers with Enhanced Generalizability] \n
+  Wenzhao Liu, Haoran Li$^\dagger$, Congying Han, Zicheng Zhang, Anqi Li, Tiande Guo. \n
+  (NeurIPS 2025) /39th Annual Conference on Neural Information Processing Systems./
+- [papers/2024_pivot.pdf Optimal Pivot Path of the Simplex Method for Linear Programming based on Reinforcement Learning] \n 
+  Anqi Li, Tiande Guo, Congying Han, Bonan Li, Haoran Li. \n
+  (Sci China Math 2024) /Science China Mathematics./
+- [1 Fusion of Multi-level Information: Solve Large-scale Traveling Salesman Problem with an Efficient Framework] \n 
+  Wenzhao Liu, Congying Han, Tiande Guo, Haoran Li$^\dagger$, Zicheng Zhang. \n 
+  (ICONIP 2024) /31st International Conference on Neural Information Processing./
+- [1 Foresight Neural Pivot Simplex Algorithm] \n 
+  Anqi Li, Congying Han, Tiande Guo, Haoran Li, Zicheng Zhang, Wenzhao Liu, Ning Li. \n 
+  Preprint.
+- [1 FADE: Foresight-Aware Decision Evolution Algorithm] \n 
+  Anqi Li, Congying Han, Tiande Guo, Haoran Li, Bonan Li. \n 
+  Preprint.
+
+*VLM/LLM Training*
+- [papers/2025_loram.pdf The Primacy of Magnitude in Low-Rank Adaptation] \n
+  Zicheng Zhang, Haoran Li, Yifeng Zhang, Guoqiang Gong, Jiaxing Wang, Pengzhang Liu, Qixia Jiang, Junxing Hu. \n
+  (NeurIPS 2025 {{<span style="color: red;">}}Spotlight{{</span>}}, < 3%) /39th Annual Conference on Neural Information Processing Systems./
+- [papers/2025_tandem.pdf TANDEM: Bi-Level Data Mixture Optimization with Twin Networks] \n
+  Jiaxing Wang, Deping Xiang, Jin Xu, Mingyang Yi, Guoqiang Gong, Zicheng Zhang, Haoran Li, Pengzhang Liu, Zhen Chen, Ke Zhang, Ju Fan, Qixia Jiang. \n 
+  (NeurIPS 2025) /39th Annual Conference on Neural Information Processing Systems./
